@@ -1,0 +1,6 @@
+C:\Users\mrabh\AppData\Local\Temporary Projects\Lesson01\bin\Debug\Lesson01.exe
+C:\Users\mrabh\AppData\Local\Temporary Projects\Lesson01\bin\Debug\Lesson01.pdb
+C:\Users\mrabh\AppData\Local\Temporary Projects\Lesson01\obj\x86\Debug\Lesson01.exe
+C:\Users\mrabh\AppData\Local\Temporary Projects\Lesson01\obj\x86\Debug\Lesson01.pdb
+C:\Users\mrabh\onedrive\документы\visual studio 2010\Projects\Lesson01\Lesson01\obj\x86\Debug\Lesson01.exe
+C:\Users\mrabh\onedrive\документы\visual studio 2010\Projects\Lesson01\Lesson01\obj\x86\Debug\Lesson01.pdb
